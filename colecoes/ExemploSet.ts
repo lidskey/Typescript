@@ -1,5 +1,5 @@
 const frutas: Set<string> = new Set<string>();
-
+//set não tem indice
 //collection set não repete informações
 //set não possui indice e não é possível manipular os dados
 
